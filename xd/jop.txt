@@ -1,0 +1,8 @@
+RuntimeError: target host is configured as Windows, but seems to be a different OS. Please review te connection settings
+
+El uso de nuevas tecnologías de comunicación permite una interacción mas asertiva entre las organizaciones y sus integrantes, por ende se realizará un página web a la empresa NETCOM ya que así se beneficiará de poseer un vinculo electrónico dando una mayor accesibilidad de datos actuales, y en algunos casos en tiempo real, referentes a los servicios, actividades e información inheretes a la empresa, fortaleciéndose e innovando  la imagen del mismo permitiendo un mayor alcance y presencia en el mundo virtual.
+
+Determinar las problemáticas y/0 necesidades que presenta actualmente la empresa NETCOM.
+Realizar un diagnostico en cuanto a los medios de difusión y comunicación con los que cuenta la empresa.
+
+Se especifica el proceso de creación de la página web dirigida a la empresa NETCOM con base a sus necesidades, esto para brindar una mayor atención al cliente, facilitar los pagos y monitorear los servicios ofrecidos. Además de gestionar los pagos hechos y administrar otros procesos. Este desarrollo podrá servir para otras empresas con modelos de negocios y necesidades similares.
